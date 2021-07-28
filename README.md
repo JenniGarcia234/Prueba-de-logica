@@ -1,1 +1,1 @@
-# Prueba-de-logica
+#Ejercicios de lógica
